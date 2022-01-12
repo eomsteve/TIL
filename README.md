@@ -1,3 +1,5 @@
-# hello this is my repo
+# Today I Learned
+오늘 배운 내용을 가볍게 정리하는 레포지토리 입니다.
+## TIL
 
-TIL ?? 을 올리게 될 지도 모릅니다.
+[day1 : 2022.01.12](./TILs/TIL%2022.01.12.md)
